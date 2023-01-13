@@ -1,19 +1,36 @@
 hr {
     border-color: grey;
     border-style: dotted none none;
-    border-width: 3px;
-    width: 150px;
+    border-width: 4px;
+    width: 400px;
 }
 
 
 h1 {
     color: black;
+    font-size: 65px;
 }
 
 h3 {
     color: black;
+    font-size: 40px;
 }
 
+p {
+    color: black;
+    font-size: 25px;
+}
+
+
+table {
+    color: black;
+    font-size: 30px;
+}
+
+form {
+    color: black;
+    font-size: 30px;
+}
 
 
 ul {
@@ -22,8 +39,8 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-    width: 500px;
-    height: 30px;
+    width: 1000px;
+    height: 55px;
     
     }
     
@@ -35,7 +52,7 @@ ul {
       display: blcok;
       color: white;
       text-align: center;
-      padding: 38px;
+      padding: 100.5px;
       text-decoration: none;
     }
     
@@ -46,10 +63,16 @@ ul {
     li {
         border-right: 1px solid #bbb;
         padding: 0px;
-        padding-top: 5px;
-        padding-bottom: 7px;
+        padding-top: 18px;
+        padding-bottom: 20px;
       }
       
       li:last-child {
         border-right: none;
       }
+
+
+
+
+
+      
