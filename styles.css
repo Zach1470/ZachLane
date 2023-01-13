@@ -1,0 +1,81 @@
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 4px;
+    width: 400px;
+}
+
+
+h1 {
+    color: black;
+    font-size: 65px;
+}
+
+h3 {
+    color: black;
+    font-size: 40px;
+}
+
+p {
+    color: black;
+    font-size: 25px;
+}
+
+
+table {
+    color: black;
+    font-size: 30px;
+}
+
+form {
+    color: black;
+    font-size: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 1000px;
+    height: 55px;
+    
+    }
+    
+    li {
+      float: left;
+    }
+    
+    li a {
+      display: blcok;
+      color: white;
+      text-align: center;
+      padding: 87px;
+      text-decoration: none;
+      font-size: 25px;
+    }
+    
+    .active {
+        color: #ADA2FF;
+    }
+    
+    li {
+        border-right: 1px solid #bbb;
+        padding: 0px;
+        padding-top: 14px;
+        padding-bottom: 20px;
+      }
+      
+      li:last-child {
+        border-right: none;
+      }
+
+
+body {
+    text-align: center;
+}
+
+
+      
