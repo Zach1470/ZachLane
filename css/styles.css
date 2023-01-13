@@ -29,7 +29,7 @@ table {
 
 form {
     color: black;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 
@@ -52,8 +52,9 @@ ul {
       display: blcok;
       color: white;
       text-align: center;
-      padding: 100.5px;
+      padding: 87px;
       text-decoration: none;
+      font-size: 25px;
     }
     
     .active {
@@ -63,7 +64,7 @@ ul {
     li {
         border-right: 1px solid #bbb;
         padding: 0px;
-        padding-top: 18px;
+        padding-top: 14px;
         padding-bottom: 20px;
       }
       
@@ -72,7 +73,9 @@ ul {
       }
 
 
-
+body {
+    text-align: center;
+}
 
 
       
